@@ -1,5 +1,5 @@
 === jQuery UI Widgets ===
-Contributors: dgwyer
+Contributors: dgwyer, wpgoplugins
 Tags: jQuery UI, jQuery, tabs, accordion, dialog, UI, admin, enqueue, themeroller, styles, themes, widgets, effects, interactions, custom code, customization
 Requires at least: 3.5
 Tested up to: 4.8
